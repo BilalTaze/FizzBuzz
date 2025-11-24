@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="fr.isep.fizzbuzz.FizzBuzzCucumberTest" time="0.889" tests="100" errors="0" skipped="0" failures="100">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="fr.isep.fizzbuzz.FizzBuzzCucumberTest" time="0.696" tests="100" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="FR"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\alibi\AppData\Local\Temp\surefire4965331273287126359\surefirebooter-20251124112015022_3.jar C:\Users\alibi\AppData\Local\Temp\surefire4965331273287126359 2025-11-24T11-20-14_793-jvmRun1 surefire-20251124112015022_1tmp surefire_0-20251124112015022_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\alibi\AppData\Local\Temp\surefire3330452646435170457\surefirebooter-20251124114903533_3.jar C:\Users\alibi\AppData\Local\Temp\surefire3330452646435170457 2025-11-24T11-49-03_045-jvmRun1 surefire-20251124114903533_1tmp surefire_0-20251124114903533_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\alibi\dev_env\Cours\FizzBuzz\target\test-classes;C:\Users\alibi\dev_env\Cours\FizzBuzz\target\classes;C:\Users\alibi\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.1\junit-jupiter-5.10.1.jar;C:\Users\alibi\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.1\junit-jupiter-api-5.10.1.jar;C:\Users\alibi\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\alibi\.m2\repository\org\junit\platform\junit-platform-commons\1.10.1\junit-platform-commons-1.10.1.jar;C:\Users\alibi\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.1\junit-jupiter-params-5.10.1.jar;C:\Users\alibi\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.1\junit-jupiter-engine-5.10.1.jar;C:\Users\alibi\.m2\repository\io\cucumber\cucumber-java\7.15.0\cucumber-java-7.15.0.jar;C:\Users\alibi\.m2\repository\io\cucumber\cucumber-core\7.15.0\cucumber-core-7.15.0.jar;C:\Users\alibi\.m2\repository\io\cucumber\cucumber-gherkin\7.15.0\cucumber-gherkin-7.15.0.jar;C:\Users\alibi\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.15.0\cucumber-gherkin-messages-7.15.0.jar;C:\Users\alibi\.m2\repository\io\cucumber\gherkin\26.2.0\gherkin-26.2.0.jar;C:\Users\alibi\.m2\repository\io\cucumber\messages\22.0.0\messages-22.0.0.jar;C:\Users\alibi\.m2\repository\io\cucumber\tag-expressions\6.0.0\tag-expressions-6.0.0.jar;C:\Users\alibi\.m2\repository\io\cucumber\cucumber-expressions\17.0.1\cucumber-expressions-17.0.1.jar;C:\Users\alibi\.m2\repository\io\cucumber\datatable\7.15.0\datatable-7.15.0.jar;C:\Users\alibi\.m2\repository\io\cucumber\cucumber-plugin\7.15.0\cucumber-plugin-7.15.0.jar;C:\Users\alibi\.m2\repository\io\cucumber\docstring\7.15.0\docstring-7.15.0.jar;C:\Users\alibi\.m2\repository\io\cucumber\html-formatter\20.4.0\html-formatter-20.4.0.jar;C:\Users\alibi\.m2\repository\io\cucumber\junit-xml-formatter\0.2.0\junit-xml-formatter-0.2.0.jar;C:\Users\alibi\.m2\repository\io\cucumber\ci-environment\10.0.0\ci-environment-10.0.0.jar;C:\Users\alibi\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\alibi\.m2\repository\io\cucumber\cucumber-junit-platform-engine\7.15.0\cucumber-junit-platform-engine-7.15.0.jar;C:\Users\alibi\.m2\repository\org\junit\platform\junit-platform-engine\1.10.1\junit-platform-engine-1.10.1.jar;C:\Users\alibi\.m2\repository\org\junit\platform\junit-platform-suite\1.10.1\junit-platform-suite-1.10.1.jar;C:\Users\alibi\.m2\repository\org\junit\platform\junit-platform-suite-api\1.10.1\junit-platform-suite-api-1.10.1.jar;C:\Users\alibi\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.10.1\junit-platform-suite-engine-1.10.1.jar;C:\Users\alibi\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.10.1\junit-platform-suite-commons-1.10.1.jar;C:\Users\alibi\.m2\repository\org\junit\platform\junit-platform-launcher\1.10.1\junit-platform-launcher-1.10.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\alibi\AppData\Local\Temp\surefire4965331273287126359\surefirebooter-20251124112015022_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\alibi\AppData\Local\Temp\surefire3330452646435170457\surefirebooter-20251124114903533_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21+35-LTS-2513"/>
@@ -58,604 +58,104 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="Example #1.1" classname="Examples" time="0.105">
-    <failure message="expected: &lt;1&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <1> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "1"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.2" classname="Examples" time="0.007">
-    <failure message="expected: &lt;2&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <2> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "2"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.3" classname="Examples" time="0.004">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.4" classname="Examples" time="0.003">
-    <failure message="expected: &lt;4&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <4> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "4"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.5" classname="Examples" time="0.007">
-    <failure message="expected: &lt;Buzz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.6" classname="Examples" time="0.005">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.7" classname="Examples" time="0.006">
-    <failure message="expected: &lt;7&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <7> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "7"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.8" classname="Examples" time="0.004">
-    <failure message="expected: &lt;8&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <8> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "8"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.9" classname="Examples" time="0.006">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.10" classname="Examples" time="0.01">
-    <failure message="expected: &lt;Buzz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.11" classname="Examples" time="0.005">
-    <failure message="expected: &lt;11&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <11> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "11"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.12" classname="Examples" time="0.008">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.13" classname="Examples" time="0.006">
-    <failure message="expected: &lt;13&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <13> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "13"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.14" classname="Examples" time="0.009">
-    <failure message="expected: &lt;14&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <14> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "14"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.15" classname="Examples" time="0.004">
-    <failure message="expected: &lt;FizzBuzz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <FizzBuzz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "FizzBuzz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.16" classname="Examples" time="0.005">
-    <failure message="expected: &lt;16&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <16> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "16"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.17" classname="Examples" time="0.005">
-    <failure message="expected: &lt;17&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <17> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "17"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.18" classname="Examples" time="0.005">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.19" classname="Examples" time="0.01">
-    <failure message="expected: &lt;19&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <19> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "19"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.20" classname="Examples" time="0.005">
-    <failure message="expected: &lt;Buzz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.21" classname="Examples" time="0.007">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.22" classname="Examples" time="0.006">
-    <failure message="expected: &lt;22&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <22> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "22"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.23" classname="Examples" time="0.007">
-    <failure message="expected: &lt;23&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <23> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "23"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.24" classname="Examples" time="0.004">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.25" classname="Examples" time="0.006">
-    <failure message="expected: &lt;Buzz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.26" classname="Examples" time="0.004">
-    <failure message="expected: &lt;26&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <26> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "26"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.27" classname="Examples" time="0.004">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.28" classname="Examples" time="0.004">
-    <failure message="expected: &lt;28&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <28> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "28"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.29" classname="Examples" time="0.006">
-    <failure message="expected: &lt;29&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <29> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "29"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.30" classname="Examples" time="0.004">
-    <failure message="expected: &lt;FizzBuzz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <FizzBuzz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "FizzBuzz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.31" classname="Examples" time="0.004">
-    <failure message="expected: &lt;31&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <31> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "31"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.32" classname="Examples" time="0.005">
-    <failure message="expected: &lt;32&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <32> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "32"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.33" classname="Examples" time="0.003">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.34" classname="Examples" time="0.005">
-    <failure message="expected: &lt;34&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <34> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "34"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.35" classname="Examples" time="0.007">
-    <failure message="expected: &lt;Buzz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.36" classname="Examples" time="0.003">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.37" classname="Examples" time="0.005">
-    <failure message="expected: &lt;37&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <37> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "37"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.38" classname="Examples" time="0.006">
-    <failure message="expected: &lt;38&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <38> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "38"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.39" classname="Examples" time="0.004">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.40" classname="Examples" time="0.003">
-    <failure message="expected: &lt;Buzz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.41" classname="Examples" time="0.007">
-    <failure message="expected: &lt;41&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <41> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "41"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.42" classname="Examples" time="0.004">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.43" classname="Examples" time="0.004">
-    <failure message="expected: &lt;43&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <43> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "43"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.44" classname="Examples" time="0.007">
-    <failure message="expected: &lt;44&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <44> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "44"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.45" classname="Examples" time="0.003">
-    <failure message="expected: &lt;FizzBuzz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <FizzBuzz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "FizzBuzz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.46" classname="Examples" time="0.003">
-    <failure message="expected: &lt;46&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <46> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "46"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.47" classname="Examples" time="0.005">
-    <failure message="expected: &lt;47&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <47> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "47"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.48" classname="Examples" time="0.011">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.49" classname="Examples" time="0.015">
-    <failure message="expected: &lt;49&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <49> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "49"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.50" classname="Examples" time="0.007">
-    <failure message="expected: &lt;Buzz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.51" classname="Examples" time="0.003">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.52" classname="Examples" time="0.002">
-    <failure message="expected: &lt;52&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <52> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "52"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.53" classname="Examples" time="0.002">
-    <failure message="expected: &lt;53&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <53> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "53"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.54" classname="Examples" time="0.002">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.55" classname="Examples" time="0.004">
-    <failure message="expected: &lt;Buzz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.56" classname="Examples" time="0.004">
-    <failure message="expected: &lt;56&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <56> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "56"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.57" classname="Examples" time="0.003">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.58" classname="Examples" time="0.008">
-    <failure message="expected: &lt;58&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <58> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "58"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.59" classname="Examples" time="0.004">
-    <failure message="expected: &lt;59&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <59> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "59"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.60" classname="Examples" time="0.004">
-    <failure message="expected: &lt;FizzBuzz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <FizzBuzz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "FizzBuzz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.61" classname="Examples" time="0.006">
-    <failure message="expected: &lt;61&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <61> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "61"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.62" classname="Examples" time="0.008">
-    <failure message="expected: &lt;62&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <62> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "62"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.63" classname="Examples" time="0.006">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.64" classname="Examples" time="0.006">
-    <failure message="expected: &lt;64&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <64> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "64"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.65" classname="Examples" time="0.004">
-    <failure message="expected: &lt;Buzz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.66" classname="Examples" time="0.006">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.67" classname="Examples" time="0.004">
-    <failure message="expected: &lt;67&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <67> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "67"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.68" classname="Examples" time="0.003">
-    <failure message="expected: &lt;68&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <68> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "68"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.69" classname="Examples" time="0.003">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.70" classname="Examples" time="0.005">
-    <failure message="expected: &lt;Buzz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.71" classname="Examples" time="0.004">
-    <failure message="expected: &lt;71&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <71> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "71"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.72" classname="Examples" time="0.003">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.73" classname="Examples" time="0.004">
-    <failure message="expected: &lt;73&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <73> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "73"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.74" classname="Examples" time="0.003">
-    <failure message="expected: &lt;74&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <74> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "74"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.75" classname="Examples" time="0.003">
-    <failure message="expected: &lt;FizzBuzz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <FizzBuzz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "FizzBuzz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.76" classname="Examples" time="0.003">
-    <failure message="expected: &lt;76&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <76> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "76"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.77" classname="Examples" time="0.004">
-    <failure message="expected: &lt;77&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <77> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "77"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.78" classname="Examples" time="0.004">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.79" classname="Examples" time="0.003">
-    <failure message="expected: &lt;79&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <79> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "79"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.80" classname="Examples" time="0.004">
-    <failure message="expected: &lt;Buzz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.81" classname="Examples" time="0.003">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.82" classname="Examples" time="0.003">
-    <failure message="expected: &lt;82&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <82> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "82"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.83" classname="Examples" time="0.002">
-    <failure message="expected: &lt;83&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <83> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "83"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.84" classname="Examples" time="0.003">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.85" classname="Examples" time="0.003">
-    <failure message="expected: &lt;Buzz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.86" classname="Examples" time="0.005">
-    <failure message="expected: &lt;86&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <86> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "86"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.87" classname="Examples" time="0.003">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.88" classname="Examples" time="0.001">
-    <failure message="expected: &lt;88&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <88> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "88"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.89" classname="Examples" time="0.003">
-    <failure message="expected: &lt;89&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <89> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "89"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.90" classname="Examples" time="0.002">
-    <failure message="expected: &lt;FizzBuzz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <FizzBuzz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "FizzBuzz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.91" classname="Examples" time="0.003">
-    <failure message="expected: &lt;91&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <91> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "91"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.92" classname="Examples" time="0.002">
-    <failure message="expected: &lt;92&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <92> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "92"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.93" classname="Examples" time="0.002">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.94" classname="Examples" time="0.003">
-    <failure message="expected: &lt;94&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <94> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "94"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.95" classname="Examples" time="0.002">
-    <failure message="expected: &lt;Buzz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.96" classname="Examples" time="0.003">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.97" classname="Examples" time="0.003">
-    <failure message="expected: &lt;97&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <97> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "97"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.98" classname="Examples" time="0.011">
-    <failure message="expected: &lt;98&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <98> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "98"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.99" classname="Examples" time="0.005">
-    <failure message="expected: &lt;Fizz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
-  <testcase name="Example #1.100" classname="Examples" time="0.002">
-    <failure message="expected: &lt;Buzz&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
-	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
-	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
-]]></failure>
-  </testcase>
+  <testcase name="Example #1.1" classname="Examples" time="0.123"/>
+  <testcase name="Example #1.2" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.3" classname="Examples" time="0.016"/>
+  <testcase name="Example #1.4" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.5" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.6" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.7" classname="Examples" time="0.006"/>
+  <testcase name="Example #1.8" classname="Examples" time="0.01"/>
+  <testcase name="Example #1.9" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.10" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.11" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.12" classname="Examples" time="0.016"/>
+  <testcase name="Example #1.13" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.14" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.15" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.16" classname="Examples" time="0.016"/>
+  <testcase name="Example #1.17" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.18" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.19" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.20" classname="Examples" time="0.015"/>
+  <testcase name="Example #1.21" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.22" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.23" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.24" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.25" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.26" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.27" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.28" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.29" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.30" classname="Examples" time="0.016"/>
+  <testcase name="Example #1.31" classname="Examples" time="0.016"/>
+  <testcase name="Example #1.32" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.33" classname="Examples" time="0.016"/>
+  <testcase name="Example #1.34" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.35" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.36" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.37" classname="Examples" time="0.011"/>
+  <testcase name="Example #1.38" classname="Examples" time="0.007"/>
+  <testcase name="Example #1.39" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.40" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.41" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.42" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.43" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.44" classname="Examples" time="0.016"/>
+  <testcase name="Example #1.45" classname="Examples" time="0.003"/>
+  <testcase name="Example #1.46" classname="Examples" time="0.002"/>
+  <testcase name="Example #1.47" classname="Examples" time="0.002"/>
+  <testcase name="Example #1.48" classname="Examples" time="0.003"/>
+  <testcase name="Example #1.49" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.50" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.51" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.52" classname="Examples" time="0.016"/>
+  <testcase name="Example #1.53" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.54" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.55" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.56" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.57" classname="Examples" time="0.011"/>
+  <testcase name="Example #1.58" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.59" classname="Examples" time="0.006"/>
+  <testcase name="Example #1.60" classname="Examples" time="0.002"/>
+  <testcase name="Example #1.61" classname="Examples" time="0.004"/>
+  <testcase name="Example #1.62" classname="Examples" time="0.003"/>
+  <testcase name="Example #1.63" classname="Examples" time="0.001"/>
+  <testcase name="Example #1.64" classname="Examples" time="0.002"/>
+  <testcase name="Example #1.65" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.66" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.67" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.68" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.69" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.70" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.71" classname="Examples" time="0.011"/>
+  <testcase name="Example #1.72" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.73" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.74" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.75" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.76" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.77" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.78" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.79" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.80" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.81" classname="Examples" time="0.016"/>
+  <testcase name="Example #1.82" classname="Examples" time="0.005"/>
+  <testcase name="Example #1.83" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.84" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.85" classname="Examples" time="0.006"/>
+  <testcase name="Example #1.86" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.87" classname="Examples" time="0.01"/>
+  <testcase name="Example #1.88" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.89" classname="Examples" time="0.015"/>
+  <testcase name="Example #1.90" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.91" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.92" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.93" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.94" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.95" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.96" classname="Examples" time="0.006"/>
+  <testcase name="Example #1.97" classname="Examples" time="0.0"/>
+  <testcase name="Example #1.98" classname="Examples" time="0.002"/>
+  <testcase name="Example #1.99" classname="Examples" time="0.002"/>
+  <testcase name="Example #1.100" classname="Examples" time="0.0"/>
 </testsuite>
