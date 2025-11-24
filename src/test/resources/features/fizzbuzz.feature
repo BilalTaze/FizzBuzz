@@ -74,7 +74,7 @@ Feature: FizzBuzz
       | 62     | 62       |
       | 63     | Fizz     |
       | 64     | 64       |
-      | 65     | FizzBuzz |
+      | 65     | Buzz     |
       | 66     | Fizz     |
       | 67     | 67       |
       | 68     | 68       |
@@ -94,7 +94,7 @@ Feature: FizzBuzz
       | 82     | 82       |
       | 83     | Fizz     |
       | 84     | Fizz     |
-      | 85     | FizzBuzz |
+      | 85     | Buzz     |
       | 86     | 86       |
       | 87     | Fizz     |
       | 88     | 88       |
@@ -104,7 +104,7 @@ Feature: FizzBuzz
       | 92     | 92       |
       | 93     | Fizz     |
       | 94     | 94       |
-      | 95     | FizzBuzz |
+      | 95     | Buzz     |
       | 96     | Fizz     |
       | 97     | 97       |
       | 98     | 98       |

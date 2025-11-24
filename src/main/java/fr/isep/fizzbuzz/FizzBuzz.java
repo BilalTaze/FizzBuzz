@@ -3,14 +3,19 @@ package fr.isep.fizzbuzz;
 public class FizzBuzz {
     
     public String fizzBuzz(int number) {
-        if (number % 15 == 0) {
+        String numberStr = String.valueOf(number);
+        
+        boolean isFizz = number % 3 == 0 || numberStr.contains("3");
+        boolean isBuzz = number % 5 == 0 || numberStr.contains("5");
+        
+        if (isFizz && isBuzz) {
             return "FizzBuzz";
-        } else if (number % 3 == 0) {
+        } else if (isFizz) {
             return "Fizz";
-        } else if (number % 5 == 0) {
+        } else if (isBuzz) {
             return "Buzz";
         } else {
-            return String.valueOf(number);
+            return numberStr;
         }
     }
 }
