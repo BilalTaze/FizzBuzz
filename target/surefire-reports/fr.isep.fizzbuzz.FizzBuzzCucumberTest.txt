@@ -1,0 +1,504 @@
+-------------------------------------------------------------------------------
+Test set: fr.isep.fizzbuzz.FizzBuzzCucumberTest
+-------------------------------------------------------------------------------
+Tests run: 100, Failures: 100, Errors: 0, Skipped: 0, Time elapsed: 0.889 s <<< FAILURE! -- in fr.isep.fizzbuzz.FizzBuzzCucumberTest
+Examples.Example #1.1 -- Time elapsed: 0.105 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <1> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "1"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.2 -- Time elapsed: 0.007 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <2> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "2"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.3 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.4 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <4> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "4"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.5 -- Time elapsed: 0.007 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.6 -- Time elapsed: 0.005 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.7 -- Time elapsed: 0.006 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <7> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "7"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.8 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <8> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "8"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.9 -- Time elapsed: 0.006 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.10 -- Time elapsed: 0.010 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.11 -- Time elapsed: 0.005 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <11> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "11"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.12 -- Time elapsed: 0.008 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.13 -- Time elapsed: 0.006 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <13> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "13"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.14 -- Time elapsed: 0.009 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <14> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "14"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.15 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <FizzBuzz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "FizzBuzz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.16 -- Time elapsed: 0.005 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <16> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "16"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.17 -- Time elapsed: 0.005 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <17> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "17"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.18 -- Time elapsed: 0.005 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.19 -- Time elapsed: 0.010 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <19> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "19"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.20 -- Time elapsed: 0.005 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.21 -- Time elapsed: 0.007 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.22 -- Time elapsed: 0.006 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <22> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "22"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.23 -- Time elapsed: 0.007 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <23> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "23"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.24 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.25 -- Time elapsed: 0.006 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.26 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <26> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "26"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.27 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.28 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <28> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "28"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.29 -- Time elapsed: 0.006 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <29> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "29"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.30 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <FizzBuzz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "FizzBuzz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.31 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <31> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "31"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.32 -- Time elapsed: 0.005 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <32> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "32"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.33 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.34 -- Time elapsed: 0.005 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <34> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "34"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.35 -- Time elapsed: 0.007 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.36 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.37 -- Time elapsed: 0.005 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <37> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "37"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.38 -- Time elapsed: 0.006 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <38> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "38"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.39 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.40 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.41 -- Time elapsed: 0.007 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <41> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "41"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.42 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.43 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <43> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "43"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.44 -- Time elapsed: 0.007 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <44> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "44"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.45 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <FizzBuzz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "FizzBuzz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.46 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <46> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "46"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.47 -- Time elapsed: 0.005 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <47> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "47"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.48 -- Time elapsed: 0.011 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.49 -- Time elapsed: 0.015 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <49> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "49"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.50 -- Time elapsed: 0.007 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.51 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.52 -- Time elapsed: 0.002 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <52> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "52"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.53 -- Time elapsed: 0.002 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <53> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "53"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.54 -- Time elapsed: 0.002 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.55 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.56 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <56> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "56"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.57 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.58 -- Time elapsed: 0.008 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <58> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "58"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.59 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <59> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "59"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.60 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <FizzBuzz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "FizzBuzz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.61 -- Time elapsed: 0.006 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <61> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "61"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.62 -- Time elapsed: 0.008 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <62> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "62"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.63 -- Time elapsed: 0.006 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.64 -- Time elapsed: 0.006 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <64> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "64"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.65 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.66 -- Time elapsed: 0.006 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.67 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <67> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "67"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.68 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <68> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "68"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.69 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.70 -- Time elapsed: 0.005 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.71 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <71> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "71"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.72 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.73 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <73> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "73"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.74 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <74> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "74"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.75 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <FizzBuzz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "FizzBuzz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.76 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <76> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "76"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.77 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <77> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "77"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.78 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.79 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <79> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "79"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.80 -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.81 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.82 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <82> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "82"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.83 -- Time elapsed: 0.002 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <83> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "83"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.84 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.85 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.86 -- Time elapsed: 0.005 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <86> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "86"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.87 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.88 -- Time elapsed: 0.001 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <88> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "88"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.89 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <89> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "89"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.90 -- Time elapsed: 0.002 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <FizzBuzz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "FizzBuzz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.91 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <91> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "91"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.92 -- Time elapsed: 0.002 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <92> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "92"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.93 -- Time elapsed: 0.002 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.94 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <94> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "94"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.95 -- Time elapsed: 0.002 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.96 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.97 -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <97> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "97"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.98 -- Time elapsed: 0.011 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <98> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "98"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.99 -- Time elapsed: 0.005 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Fizz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Fizz"(classpath:features/fizzbuzz.feature:9)
+
+Examples.Example #1.100 -- Time elapsed: 0.002 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Buzz> but was: <null>
+	at fr.isep.fizzbuzz.FizzBuzzStepDefinitions.the_result_should_be(FizzBuzzStepDefinitions.java:30)
+	at ✽.the result should be "Buzz"(classpath:features/fizzbuzz.feature:9)
+
